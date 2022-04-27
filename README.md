@@ -5,7 +5,7 @@
 
 <h2> My stack 📚 </h2>
 <p>
-<img src="https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff" />
+<img alt="html" src="https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff" />
 </p>
 <!--
 **jinnkimm7/jinnkimm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
