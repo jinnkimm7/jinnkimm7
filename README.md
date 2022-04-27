@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1> Hi, I'm Jin Kim </h1>
 
 <!--
 **jinnkimm7/jinnkimm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
