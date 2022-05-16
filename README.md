@@ -12,7 +12,8 @@
 </p>
 
 <h2> How to Reach Me 📩 </h2>
-<img alt="email" src="[https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com)](mailto:fomagran6@gmail.com) />
+<a href="mailto:jinnkimm7@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinnkimm7@gmail.com" />
+
 <!--
 **jinnkimm7/jinnkimm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
