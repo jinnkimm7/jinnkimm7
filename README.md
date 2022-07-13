@@ -1,7 +1,7 @@
 <h1> <img src="https://c.tenor.com/uQJyw8sJs5kAAAAC/emoji-emoji-hello.gif" widht="50" height="50" /> Hey guys! Nice to see you. </h1>
 
 
-<p>Welcome to my page! </br> I'm Jin, Frontend developer from 🇰🇷 <b>Daejeon, Korea</b>.</p>
+<p>Welcome to my page! </br> I'm Jin, Web developer from 🇰🇷 <b>Daejeon, Korea</b>.</p>
 
 <h2> My stack 📚 </h2>
 <p>
