@@ -1,7 +1,10 @@
 <h1> <img src="https://c.tenor.com/uQJyw8sJs5kAAAAC/emoji-emoji-hello.gif" widht="50" height="50" /> Hey guys! Nice to see you. </h1>
 
 
-<p>Welcome to my page! </br> I'm Jin, Web developer from 🇰🇷 <b>Daejeon, Korea</b>.</p>
+<p>Welcome to my page! </br> I'm Jin, a student who want to be a Web developer from 🇰🇷 <b>Daejeon, Korea</b>.</p>
+
+ - 🌱 I’m currently learning Java and Spring Framework.
+<br />
 
 <h2> My stack 📚 </h2>
 <p>
@@ -20,5 +23,5 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 -->
