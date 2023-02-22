@@ -3,7 +3,7 @@
 
 <p>Welcome to my page! </br> I'm Jin, a student who want to be a Web developer from 🇰🇷 <b>Daejeon, Korea</b>.</p>
 
- - 🌱 I’m currently learning Java and Spring Framework.
+ - 🌱 I’m currently learning JavaScript and React.
 <br />
 
 <h2> My stack 📚 </h2>
@@ -11,6 +11,8 @@
 <img alt="html" src="https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff" />
 <img alt="css" src="https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3" />
 <img alt="js" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
+<img alt="react" src="https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react" />
+ 
 
 </br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -20,7 +22,6 @@
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
-<!-- <img alt="react" src="https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react" /> -->
 </p>
 
 ## Experience
