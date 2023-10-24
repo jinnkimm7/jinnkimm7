@@ -1,43 +1,36 @@
-<h1> <img src="https://c.tenor.com/uQJyw8sJs5kAAAAC/emoji-emoji-hello.gif" widht="50" height="50" /> Hey guys! Nice to see you. </h1>
+## 🙇‍♂️ 안녕하세요! 프론트엔드 개발자 김진형입니다.
 
+## My stack 📚
 
-<p>Welcome to my page! </br> I'm Jin, a student who want to be a Web developer from 🇰🇷 <b>Daejeon, Korea</b>.</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
- - 🌱 I’m currently learning JavaScript and React.
-<br />
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-<h2> My stack 📚 </h2>
-<p>
-<img alt="html" src="https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff" />
-<img alt="css" src="https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3" />
-<img alt="js" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
-<img alt="react" src="https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react" />
- 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-</br>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-</br>
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+## Education
+- [유데미 x 웅진씽크빅 리액트 10주 프로젝트 캠프 수료](https://udemy.wjtb.co.kr/event/id/168?utm_medium=earned&utm_source=boottent&utm_campaign=projectcamp_01&utm_content=react&utm_term=230501) (23.06.05 ~ 08.11)
+- [충남대학교 소프트웨어 아카데미 [웹프론트엔드] 수료](https://sites.google.com/g.cnu.ac.kr/tmax/%EC%A0%95%EA%B7%9C%EA%B3%BC%EC%A0%95-2%EA%B8%B0) (23.01.01 ~ 04.30)
+- 충남대학교 졸업 (~ 23.02)
+  - 영어영문학
+  - 경영학
 
-</p>
+## Certificate
 
-## Experience
-- ChungNam National Universtiy (~ 23.02)
-  - English Language & Literature
-  - School of Business
-- [CNU Software Academy(Backend Course)](https://sites.google.com/g.cnu.ac.kr/tmax/%ED%99%88) (22.07.01 ~ 10.31)
+- TOEIC | 910 (22.10.15)
+- SQL 개발자(SQLD)	(22.09.30)
 
-<h2> How to Reach Me 📩 </h2>
+## How to Reach Me 📩
+
 <a href="mailto:jinnkimm7@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinnkimm7@gmail.com" />
 
-<!--
-**jinnkimm7/jinnkimm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Etc
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
--->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiinnkimm7)](https://solved.ac/jiinnkimm7/)
