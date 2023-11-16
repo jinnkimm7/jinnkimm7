@@ -3,7 +3,7 @@
 ## 📩 About Me
 
 <div style="display:flex">
-  <a href="https://www.notion.so/jinnkimm7/8e758e868dc64f80b3bf413bbe031b2b?pvs=4"><img style="height:25px" src="https://img.shields.io/badge/Notion-000000?  style=flat-square&logo=Notion&logoColor=white"><a>
+  <a href="https://www.notion.so/jinnkimm7/8e758e868dc64f80b3bf413bbe031b2b?pvs=4" target="_blank"><img style="height:25px" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"><a>
   <a href="mailto:jinnkimm7@gmail.com"><img style="height:25px" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinnkimm7@gmail.com" /></a>
 </div>
 
