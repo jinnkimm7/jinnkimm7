@@ -31,8 +31,8 @@
 </div>
 
 ## 👨‍🎓 Education
+- [NHN Academy (CNU SW 아카데미) - 백엔드](https://sites.google.com/g.cnu.ac.kr/nhn/nhn-cnu-sw-%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8?authuser=0) (24.01.02 ~ )
 - [유데미 x 웅진씽크빅 리액트 10주 프로젝트 캠프 수료](https://udemy.wjtb.co.kr/event/id/168?utm_medium=earned&utm_source=boottent&utm_campaign=projectcamp_01&utm_content=react&utm_term=230501) (23.06.05 ~ 08.11)
-- [충남대학교 소프트웨어 아카데미 [웹프론트엔드] 수료](https://sites.google.com/g.cnu.ac.kr/tmax/%EC%A0%95%EA%B7%9C%EA%B3%BC%EC%A0%95-2%EA%B8%B0) (23.01.01 ~ 04.30)
 - 충남대학교 졸업 (~ 23.02)
   - 영어영문학
   - 경영학
