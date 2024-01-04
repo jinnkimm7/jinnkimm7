@@ -1,4 +1,4 @@
-## 🙇‍♂️ 안녕하세요! 프론트엔드 개발자 김진형입니다.
+## 🙇‍♂️ 안녕하세요! 김진형입니다.
 
 ## 📩 About Me
 
@@ -24,6 +24,11 @@
 <div style="display:flex">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+</div>
+
+<div style="display:flex">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-%6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
 </div>
 
 <div style="display:flex">
