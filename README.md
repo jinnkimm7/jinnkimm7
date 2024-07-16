@@ -37,7 +37,6 @@
 </div>
 
 ## 👨‍🎓 Education
-- [유데미 x 웅진씽크빅 리액트 10주 프로젝트 캠프 수료](https://udemy.wjtb.co.kr/event/id/168?utm_medium=earned&utm_source=boottent&utm_campaign=projectcamp_01&utm_content=react&utm_term=230501) (23.06.05 ~ 08.11)
 - 충남대학교 졸업 (~ 23.02)
   - 영어영문학
   - 경영학
